@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://daihaomin.xyz/"/>
-  <updated>2018-02-01T10:31:12.638Z</updated>
+  <updated>2018-02-05T05:26:13.697Z</updated>
   <id>http://daihaomin.xyz/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>备份</title>
+    <link href="http://daihaomin.xyz/2018/02/05/%E5%A4%87%E4%BB%BD/"/>
+    <id>http://daihaomin.xyz/2018/02/05/备份/</id>
+    <published>2018-02-05T05:26:13.000Z</published>
+    <updated>2018-02-05T05:26:13.697Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Backup</title>
+    <link href="http://daihaomin.xyz/2018/02/05/Backup/"/>
+    <id>http://daihaomin.xyz/2018/02/05/Backup/</id>
+    <published>2018-02-05T05:24:08.000Z</published>
+    <updated>2018-02-05T05:24:08.230Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
